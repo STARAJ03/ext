@@ -6416,6 +6416,10 @@
         "api": "https://purplehatapi.classx.co.in"
     },
     {
+        "name": "Qeng",
+        "api": "https://qengappapi.akamai.net.in"
+    },
+    {
         "name": "Qualitypluseducation",
         "api": "https://qualitypluseducationapi.classx.co.in"
     },
@@ -8898,6 +8902,10 @@
     {
         "name": "Topperstest",
         "api": "https://topperstestapi.classx.co.in"
+    },
+    {
+        "name": "TopperPathshala",
+        "api": "https://topperspathshalaupapi.akamai.net.in"
     },
     {
         "name": "Toppertemple",
