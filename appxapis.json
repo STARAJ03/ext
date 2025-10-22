@@ -8383,6 +8383,10 @@
         "name": "Swastikclasses",
         "api": "https://swastikclassesapi.classx.co.in"
     },
+     {
+        "name": "Sway",
+        "api": "https://backend.multistreaming.site/"
+    },
     {
         "name": "Taksh",
         "api": "https://takshappapi.classx.co.in"
